@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Temperature Converter</string>
+    <string name="heading">Temperature Converter</string>
+    <string name="degrees_text">Degrees</string>
+    <string name="type_text">Type</string>
+    <string name="result_text">Result</string>
+    <string name="button_text">Convert</string>
+    <string name="editText_hint">temp</string>
+    <string-array name="temperature">
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
+    </string-array>
+</resources>
